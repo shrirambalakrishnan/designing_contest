@@ -146,19 +146,87 @@ ul li
 .interaction span
 {
     display: inline-block;
-    padding-top: 30px;
+    padding-top:30px;
     padding-bottom: 30px;
-    padding-left: 30px;
-    padding-right: 30px;
+    text-align: center;
 }
 .design-types
 {
-    padding-left:100px;
+    padding-left:200px;
 }
 
 .col-1-4
 {
     width:25%;
+    float: left;
+    padding-right: 5px;
+}
+
+.image-works
+{
     float:left;
-    padding-left: 30px;
+}
+
+.left-content
+{
+    clear: left;
+    line-height: 25px;
+    font-size: 16px;
+    padding-right: 10px;
+    padding-top:10px;
+}
+
+.left-title
+{
+    padding-bottom:10px;
+    height:30px;
+    text-align: center;
+}
+
+.main-img
+{
+    display: block;
+    padding-top: 15px;
+}
+
+.left-side
+{
+    border-bottom: 2px solid #548498;
+    background-color: #43A7CB;
+}
+
+.middle-side
+{
+    background-color: #92B30E;
+    border-bottom: 2px solid #80922F;
+}
+
+.right-side
+{
+    background-color: #FF7220;
+    border-bottom: 2px solid #B06E3E;
+}
+
+.middle-side span,
+.left-side span,
+.right-side span
+{
+    display: inline-block;
+    padding-top: 10px;
+}
+
+.works section
+{
+    display: inline-block;
+}
+
+.image-works
+{
+    width:60px;
+    height:60px;
+}
+
+.design-types
+{
+    padding-top: 50px;
 }
