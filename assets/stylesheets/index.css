@@ -148,4 +148,17 @@ ul li
     display: inline-block;
     padding-top: 30px;
     padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.design-types
+{
+    padding-left:100px;
+}
+
+.col-1-4
+{
+    width:25%;
+    float:left;
+    padding-left: 30px;
 }
